@@ -1,25 +1,33 @@
 import React from 'react';
 
-import { useDispatch } from 'react-redux';
-import { updateTableRequest } from '../../store/modules/books/actions';
-
 import { Container } from './styles';
+import Header from '../../components/Header';
 
 function Main() {
-    const dispatch = useDispatch();
-    function handleClick() {
-        dispatch(updateTableRequest('teste'));
-    }
-
     return (
-        <Container>
-            <h3>Main</h3>
-            <div>
-                <button type="button" onClick={handleClick}>
-                    Testar
-                </button>
-            </div>
-        </Container>
+        <>
+            <Header />
+            <Container>
+                <table>
+                    <thead>
+                        <th>Livro</th>
+                        <th>Autor</th>
+                        <th>Editora</th>
+                        <th>Ano</th>
+                        <th>Ações</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Pequeno príncipe</td>
+                            <td>Harper Collins</td>
+                            <td>Antoine de Saint-Exupéry</td>
+                            <td>2011</td>
+                            <td>Detalhes</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </Container>
+        </>
     );
 }
 

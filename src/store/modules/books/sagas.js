@@ -1,18 +1,21 @@
-import { takeLatest, all } from 'redux-saga/effects';
+import { takeLatest, all, call, put } from 'redux-saga/effects';
 // import { toast } from 'react-toastify';
-// import api from '../services/api';
+import api from '../../../services/api';
+import { updateTableSuccess, updateTableFailure } from './actions';
 
 export function* updateTable({ payload }) {
     console.tron.log('update table');
     console.tron.log(payload);
-    yield;
-    // try {
-    //     const { name, email, avatar_id, ...rest } = payload.data;
-
-    //     yield put(updateProfileSuccess(response.data));
-    // } catch (err) {
-    //     yield put(updateProfileFailure());
-    // }
+    try {
+        const { name, ...rest } = payload.data;
+        const response = call(api.get, 'books', {
+            name,
+            ...rest,
+        });
+        yield put(updateTableSuccess(response.data));
+    } catch (err) {
+        yield put(updateTableFailure());
+    }
 }
 
-export default all([takeLatest('@user/UPDATE_TABLE_REQUEST', updateTable)]);
+export default all([takeLatest('@books/UPDATE_TABLE_REQUEST', updateTable)]);

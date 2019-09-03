@@ -1,9 +1,19 @@
 {
-    "api": {
-        "books": [
-            "teste",
-            "libro",
-            "livro 2"
-        ]
-    }
+    "books": [
+        {
+            "name": "teste",
+            "author": "joao",
+            "editora": "maria"
+        },
+        {
+            "name": "teste2",
+            "author": "joao",
+            "editora": "maria"
+        },
+        {
+            "name": "teste3",
+            "author": "joao",
+            "editora": "maria"
+        }
+    ]
 }
