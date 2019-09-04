@@ -4,14 +4,15 @@ import api from '../../../services/api';
 import { updateTableSuccess, updateTableFailure } from './actions';
 
 export function* updateTable({ payload }) {
-    console.tron.log('update table');
-    console.tron.log(payload);
     try {
-        const { name, ...rest } = payload.data;
-        const response = call(api.get, 'books', {
+        const { name } = payload.data;
+        const pagination = '?_page=1&limit=10';
+        const response = yield call(api.get, `books${pagination}`, {
             name,
-            ...rest,
         });
+
+        console.tron.log('payload', payload.data);
+        console.tron.log('response', response.data);
         yield put(updateTableSuccess(response.data));
     } catch (err) {
         yield put(updateTableFailure());
