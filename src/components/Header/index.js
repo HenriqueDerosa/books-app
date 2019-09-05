@@ -1,24 +1,38 @@
 import React, { useState, useEffect } from 'react';
-import { useDispatch } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
 import { updateTableRequest } from '../../store/modules/books/actions';
 
 import { Container } from './styles';
 
 export default function Header() {
     const [search, setSearch] = useState([]);
+    const [yearA, setYearA] = useState([]);
+    const [yearB, setYearB] = useState([]);
+
+    const totalBooks = useSelector(state => state.books.totalAmount);
     const dispatch = useDispatch();
 
-    useEffect(() => {
-        // component did mount
-    }, []);
-
-    function handleClick() {
+    function updateTable() {
         dispatch(
             updateTableRequest({
-                filter: search,
+                search,
+                year_gte: yearA,
+                year_lte: yearB,
             })
         );
     }
+
+    function handleClick() {
+        updateTable();
+    }
+
+    useEffect(() => {
+        setSearch('');
+        setYearA(0);
+        setYearB(2000);
+
+        updateTable();
+    }, []);
 
     return (
         <Container>
@@ -29,6 +43,13 @@ export default function Header() {
                     name="search"
                     id="search"
                     onChange={e => setSearch(e.target.value)}
+                    value={search}
+                    onKeyPress={e => {
+                        if (e.key === 'Enter') {
+                            handleClick();
+                            setSearch('');
+                        }
+                    }}
                     placeholder="Busque livros pelo título, autor ou ISBN"
                 />
                 <button type="button" onClick={handleClick}>
@@ -44,18 +65,20 @@ export default function Header() {
                         min="0"
                         max="2099"
                         step="1"
-                        value="0"
+                        value={yearA}
+                        onChange={e => setYearA(e.target.value)}
                     />
                     <input
                         type="number"
                         min="0"
                         max="2099"
                         step="1"
-                        value="2016"
+                        value={yearB}
+                        onChange={e => setYearB(e.target.value)}
                     />
                 </div>
                 <div>
-                    <span>{} resultados encontrados</span>
+                    <span>{totalBooks} resultados encontrados</span>
                 </div>
             </div>
             <hr />

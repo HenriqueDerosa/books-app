@@ -1,704 +1,904 @@
 {
     "books": [
     {
+        "id": 0,
     "author": "Chinua Achebe",
     "publisher": "Publisher X",
     "pages": 209,
     "title": "Things Fall Apart",
-    "year": 1958
+    "year": 1958,
+    "isbn": "445698616328"
     },
     {
+        "id": 1,
     "author": "Hans Christian Andersen",
     "publisher": "Publisher X",
     "pages": 784,
     "title": "Fairy tales",
-    "year": 1836
+    "year": 1836,
+    "isbn": "668509835378"
     },
     {
+        "id": 2,
     "author": "Dante Alighieri",
     "publisher": "Publisher X",
     "pages": 928,
     "title": "The Divine Comedy",
-    "year": 1315
+    "year": 1315,
+    "isbn": "155085086823"
     },
     {
+        "id": 3,
     "author": "Unknown",
     "publisher": "Publisher X",
     "pages": 160,
     "title": "The Epic Of Gilgamesh",
-    "year": 1700
+    "year": 1700,
+    "isbn": "102953438415"
     },
     {
+        "id": 4,
     "author": "Unknown",
     "publisher": "Publisher X",
     "pages": 176,
     "title": "The Book Of Job",
-    "year": 600
+    "year": 600,
+    "isbn": "627938467078"
     },
     {
+        "id": 5,
     "author": "Unknown",
     "publisher": "Publisher X",
     "pages": 288,
     "title": "One Thousand and One Nights",
-    "year": 1200
+    "year": 1200,
+    "isbn": "217636448099"
     },
     {
+        "id": 6,
     "author": "Unknown",
     "publisher": "Publisher X Norse",
     "pages": 384,
     "title": "Njál's Saga",
-    "year": 1350
+    "year": 1350,
+    "isbn": "753544979264"
     },
     {
+        "id": 7,
     "author": "Jane Austen",
     "publisher": "Publisher X",
     "pages": 226,
     "title": "Pride and Prejudice",
-    "year": 1813
+    "year": 1813,
+    "isbn": "283266155981"
     },
     {
+        "id": 8,
     "author": "Honoré de Balzac",
     "publisher": "Publisher X",
     "pages": 443,
     "title": "Le Père Goriot",
-    "year": 1835
+    "year": 1835,
+    "isbn": "798880293035"
     },
     {
+        "id": 9,
     "author": "Samuel Beckett",
     "publisher": "Publisher X, English",
     "pages": 256,
     "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-    "year": 1952
+    "year": 1952,
+    "isbn": "819559347351"
     },
     {
+        "id": 10,
     "author": "Giovanni Boccaccio",
     "publisher": "Publisher X",
     "pages": 1024,
     "title": "The Decameron",
-    "year": 1351
+    "year": 1351,
+    "isbn": "897836407647"
     },
     {
+        "id": 11,
     "author": "Jorge Luis Borges",
     "publisher": "Publisher X",
     "pages": 224,
     "title": "Ficciones",
-    "year": 1965
+    "year": 1965,
+    "isbn": "213401097339"
     },
     {
+        "id": 12,
     "author": "Emily Brontë",
     "publisher": "Publisher X",
     "pages": 342,
     "title": "Wuthering Heights",
-    "year": 1847
+    "year": 1847,
+    "isbn": "312189394609"
     },
     {
+        "id": 13,
     "author": "Albert Camus",
     "publisher": "Publisher X",
     "pages": 185,
     "title": "The Stranger",
-    "year": 1942
+    "year": 1942,
+    "isbn": "918126206380"
     },
     {
+        "id": 14,
     "author": "Paul Celan",
     "publisher": "Publisher X",
     "pages": 320,
     "title": "Poems",
-    "year": 1952
+    "year": 1952,
+    "isbn": "407723529730"
     },
     {
+        "id": 15,
     "author": "Louis-Ferdinand Céline",
     "publisher": "Publisher X",
     "pages": 505,
     "title": "Journey to the End of the Night",
-    "year": 1932
+    "year": 1932,
+    "isbn": "296875705710"
     },
     {
+        "id": 16,
     "author": "Miguel de Cervantes",
     "publisher": "Publisher X",
     "pages": 1056,
     "title": "Don Quijote De La Mancha",
-    "year": 1610
+    "year": 1610,
+    "isbn": "527364130831"
     },
     {
+        "id": 17,
     "author": "Geoffrey Chaucer",
     "publisher": "Publisher X",
     "pages": 544,
     "title": "The Canterbury Tales",
-    "year": 1450
+    "year": 1450,
+    "isbn": "367314031581"
     },
     {
+        "id": 18,
     "author": "Anton Chekhov",
     "publisher": "Publisher X",
     "pages": 194,
     "title": "Stories",
-    "year": 1886
+    "year": 1886,
+    "isbn": "447427398991"
     },
     {
+        "id": 19,
     "author": "Joseph Conrad",
     "publisher": "Publisher X",
     "pages": 320,
     "title": "Nostromo",
-    "year": 1904
+    "year": 1904,
+    "isbn": "225414626766"
     },
     {
+        "id": 20,
     "author": "Charles Dickens",
     "publisher": "Publisher X",
     "pages": 194,
     "title": "Great Expectations",
-    "year": 1861
+    "year": 1861,
+    "isbn": "716442283476"
     },
     {
+        "id": 21,
     "author": "Denis Diderot",
     "publisher": "Publisher X",
     "pages": 596,
     "title": "Jacques the Fatalist",
-    "year": 1796
+    "year": 1796,
+    "isbn": "429883404868"
     },
     {
+        "id": 22,
     "author": "Alfred Döblin",
     "publisher": "Publisher X",
     "pages": 600,
     "title": "Berlin Alexanderplatz",
-    "year": 1929
+    "year": 1929,
+    "isbn": "294343886665"
     },
     {
+        "id": 23,
     "author": "Fyodor Dostoevsky",
     "publisher": "Publisher X",
     "pages": 551,
     "title": "Crime and Punishment",
-    "year": 1866
+    "year": 1866,
+    "isbn": "163298734930"
     },
     {
+        "id": 24,
     "author": "Fyodor Dostoevsky",
     "publisher": "Publisher X",
     "pages": 656,
     "title": "The Idiot",
-    "year": 1869
+    "year": 1869,
+    "isbn": "447962268489"
     },
     {
+        "id": 25,
     "author": "Fyodor Dostoevsky",
     "publisher": "Publisher X",
     "pages": 768,
     "title": "The Possessed",
-    "year": 1872
+    "year": 1872,
+    "isbn": "18961457769"
     },
     {
+        "id": 26,
     "author": "Fyodor Dostoevsky",
     "publisher": "Publisher X",
     "pages": 824,
     "title": "The Brothers Karamazov",
-    "year": 1880
+    "year": 1880,
+    "isbn": "876033404377"
     },
     {
+        "id": 27,
     "author": "George Eliot",
     "publisher": "Publisher X",
     "pages": 800,
     "title": "Middlemarch",
-    "year": 1871
+    "year": 1871,
+    "isbn": "780258301413"
     },
     {
+        "id": 28,
     "author": "Ralph Ellison",
     "publisher": "Publisher X",
     "pages": 581,
     "title": "Invisible Man",
-    "year": 1952
+    "year": 1952,
+    "isbn": "386567982846"
     },
     {
+        "id": 29,
     "author": "Euripides",
     "publisher": "Publisher X",
     "pages": 104,
     "title": "Medea",
-    "year": 431
+    "year": 431,
+    "isbn": "854003310204"
     },
     {
+        "id": 30,
     "author": "William Faulkner",
     "publisher": "Publisher X",
     "pages": 313,
     "title": "Absalom, Absalom!",
-    "year": 1936
+    "year": 1936,
+    "isbn": "853134858888"
     },
     {
+        "id": 31,
     "author": "William Faulkner",
     "publisher": "Publisher X",
     "pages": 326,
     "title": "The Sound and the Fury",
-    "year": 1929
+    "year": 1929,
+    "isbn": "381488613552"
     },
     {
+        "id": 32,
     "author": "Gustave Flaubert",
     "publisher": "Publisher X",
     "pages": 528,
     "title": "Madame Bovary",
-    "year": 1857
+    "year": 1857,
+    "isbn": "90778756422"
     },
     {
+        "id": 33,
     "author": "Gustave Flaubert",
     "publisher": "Publisher X",
     "pages": 606,
     "title": "Sentimental Education",
-    "year": 1869
+    "year": 1869,
+    "isbn": "326652778080"
     },
     {
+        "id": 34,
     "author": "Federico García Lorca",
     "publisher": "Publisher X",
     "pages": 218,
     "title": "Gypsy Ballads",
-    "year": 1928
+    "year": 1928,
+    "isbn": "662771475735"
     },
     {
+        "id": 35,
     "author": "Gabriel García Márquez",
     "publisher": "Publisher X",
     "pages": 417,
     "title": "One Hundred Years of Solitude",
-    "year": 1967
+    "year": 1967,
+    "isbn": "136535701342"
     },
     {
+        "id":36,
     "author": "Gabriel García Márquez",
     "publisher": "Publisher X",
     "pages": 368,
     "title": "Love in the Time of Cholera",
-    "year": 1985
+    "year": 1985,
+    "isbn": "892270325218"
     },
     {
+        "id":37,
     "author": "Johann Wolfgang von Goethe",
     "publisher": "Publisher X",
     "pages": 158,
     "title": "Faust",
-    "year": 1832
+    "year": 1832,
+    "isbn": "378261653707"
     },
     {
+        "id":38,
     "author": "Nikolai Gogol",
     "publisher": "Publisher X",
     "pages": 432,
     "title": "Dead Souls",
-    "year": 1842
+    "year": 1842,
+    "isbn": "455857458758"
     },
     {
+        "id":39,
     "author": "Günter Grass",
     "publisher": "Publisher X",
     "pages": 600,
     "title": "The Tin Drum",
-    "year": 1959
+    "year": 1959,
+    "isbn": "953159500845"
     },
     {
+        "id":40,
     "author": "João Guimarães Rosa",
     "publisher": "Publisher X",
     "pages": 494,
     "title": "The Devil to Pay in the Backlands",
-    "year": 1956
+    "year": 1956,
+    "isbn": "871231269325"
     },
     {
+        "id":41,
     "author": "Knut Hamsun",
     "publisher": "Publisher X",
     "pages": 176,
     "title": "Hunger",
-    "year": 1890
+    "year": 1890,
+    "isbn": "228546052473"
     },
     {
+        "id":42,
     "author": "Ernest Hemingway",
     "publisher": "Publisher X",
     "pages": 128,
     "title": "The Old Man and the Sea",
-    "year": 1952
+    "year": 1952,
+    "isbn": "635520106182"
     },
     {
+        "id":43,
     "author": "Homer",
     "publisher": "Publisher X",
     "pages": 608,
     "title": "Iliad",
-    "year": 735
+    "year": 735,
+    "isbn": "488564730157"
     },
     {
+        "id":44,
     "author": "Homer",
     "publisher": "Publisher X",
     "pages": 374,
     "title": "Odyssey",
-    "year": 800
+    "year": 800,
+    "isbn": "413404580439"
     },
     {
+        "id":45,
     "author": "Henrik Ibsen",
     "publisher": "Publisher X",
     "pages": 68,
     "title": "A Doll's House",
-    "year": 1879
+    "year": 1879,
+    "isbn": "154231698951"
     },
     {
+        "id":46,
     "author": "James Joyce",
     "publisher": "Publisher X",
     "pages": 228,
     "title": "Ulysses",
-    "year": 1922
+    "year": 1922,
+    "isbn": "854044063483"
     },
     {
+        "id":47,
     "author": "Franz Kafka",
     "publisher": "Publisher X",
     "pages": 488,
     "title": "Stories",
-    "year": 1924
+    "year": 1924,
+    "isbn": "65074897837"
     },
     {
+        "id":48,
     "author": "Franz Kafka",
     "publisher": "Publisher X",
     "pages": 160,
     "title": "The Trial",
-    "year": 1925
+    "year": 1925,
+    "isbn": "114223934943"
     },
     {
+        "id":49,
     "author": "Franz Kafka",
     "publisher": "Publisher X",
     "pages": 352,
     "title": "The Castle",
-    "year": 1926
+    "year": 1926,
+    "isbn": "871206904064"
     },
     {
+        "id":50,
     "author": "Kālidāsa",
     "publisher": "Publisher X",
     "pages": 147,
     "title": "The recognition of Shakuntala",
-    "year": 150
+    "year": 150,
+    "isbn": "445955071599"
     },
     {
+        "id":51,
     "author": "Yasunari Kawabata",
     "publisher": "Publisher X",
     "pages": 288,
     "title": "The Sound of the Mountain",
-    "year": 1954
+    "year": 1954,
+    "isbn": "23513059132"
     },
     {
+        "id":52,
     "author": "Nikos Kazantzakis",
     "publisher": "Publisher X",
     "pages": 368,
     "title": "Zorba the Greek",
-    "year": 1946
+    "year": 1946,
+    "isbn": "434442475671"
     },
     {
+        "id":53,
     "author": "D. H. Lawrence",
     "publisher": "Publisher X",
     "pages": 432,
     "title": "Sons and Lovers",
-    "year": 1913
+    "year": 1913,
+    "isbn": "880582014332"
     },
     {
+        "id":54,
     "author": "Halldór Laxness",
     "publisher": "Publisher X",
     "pages": 470,
     "title": "Independent People",
-    "year": 1934
+    "year": 1934,
+    "isbn": "202183774906"
     },
     {
+        "id":55,
     "author": "Giacomo Leopardi",
     "publisher": "Publisher X",
     "pages": 184,
     "title": "Poems",
-    "year": 1818
+    "year": 1818,
+    "isbn": "424152370543"
     },
     {
+        "id":56,
     "author": "Doris Lessing",
     "publisher": "Publisher X",
     "pages": 688,
     "title": "The Golden Notebook",
-    "year": 1962
+    "year": 1962,
+    "isbn": "987910169177"
     },
     {
+        "id":57,
     "author": "Astrid Lindgren",
     "publisher": "Publisher X",
     "pages": 160,
     "title": "Pippi Longstocking",
-    "year": 1945
+    "year": 1945,
+    "isbn": "87679457386"
     },
     {
+        "id":58,
     "author": "Lu Xun",
     "publisher": "Publisher X",
     "pages": 389,
     "title": "Diary of a Madman",
-    "year": 1918
+    "year": 1918,
+    "isbn": "459827483632"
     },
     {
+        "id":59,
     "author": "Naguib Mahfouz",
     "publisher": "Publisher X",
     "pages": 355,
     "title": "Children of Gebelawi",
-    "year": 1959
+    "year": 1959,
+    "isbn": "559146453394"
     },
     {
+        "id":60,
     "author": "Thomas Mann",
     "publisher": "Publisher X",
     "pages": 736,
     "title": "Buddenbrooks",
-    "year": 1901
+    "year": 1901,
+    "isbn": "37657331443"
     },
     {
+        "id":61,
     "author": "Thomas Mann",
     "publisher": "Publisher X",
     "pages": 720,
     "title": "The Magic Mountain",
-    "year": 1924
+    "year": 1924,
+    "isbn": "248069908470"
     },
     {
+        "id":62,
     "author": "Herman Melville",
     "publisher": "Publisher X",
     "pages": 378,
     "title": "Moby Dick",
-    "year": 1851
+    "year": 1851,
+    "isbn": "517762042117"
     },
     {
+        "id":63,
     "author": "Michel de Montaigne",
     "publisher": "Publisher X",
     "pages": 404,
     "title": "Essays",
-    "year": 1595
+    "year": 1595,
+    "isbn": "638061056147"
     },
     {
+        "id":64,
     "author": "Elsa Morante",
     "publisher": "Publisher X",
     "pages": 600,
     "title": "History",
-    "year": 1974
+    "year": 1974,
+    "isbn": "105047495338"
     },
     {
+        "id":65,
     "author": "Toni Morrison",
     "publisher": "Publisher X",
     "pages": 321,
     "title": "Beloved",
-    "year": 1987
+    "year": 1987,
+    "isbn": "106880115811"
     },
     {
+        "id":66,
     "author": "Murasaki Shikibu",
     "publisher": "Publisher X",
     "pages": 1360,
     "title": "The Tale of Genji",
-    "year": 1006
+    "year": 1006,
+    "isbn": "405998561299"
     },
     {
+        "id":67,
     "author": "Robert Musil",
     "publisher": "Publisher X",
     "pages": 365,
     "title": "The Man Without Qualities",
-    "year": 1931
+    "year": 1931,
+    "isbn": "83322484047"
     },
     {
+        "id":68,
     "author": "Vladimir Nabokov",
     "publisher": "Publisher X",
     "pages": 317,
     "title": "Lolita",
-    "year": 1955
+    "year": 1955,
+    "isbn": "991411785596"
     },
     {
+        "id":69,
     "author": "George Orwell",
     "publisher": "Publisher X",
     "pages": 272,
     "title": "Nineteen Eighty-Four",
-    "year": 1949
+    "year": 1949,
+    "isbn": "203074534890"
     },
     {
+        "id":70,
     "author": "Ovid",
     "publisher": "Publisher X Latin",
     "pages": 576,
     "title": "Metamorphoses",
-    "year": 100
+    "year": 100,
+    "isbn": "210596946767"
     },
     {
+        "id":71,
     "author": "Fernando Pessoa",
     "publisher": "Publisher X",
     "pages": 272,
     "title": "The Book of Disquiet",
-    "year": 1928
+    "year": 1928,
+    "isbn": "160318143433"
     },
     {
+        "id":72,
     "author": "Edgar Allan Poe",
     "publisher": "Publisher X",
     "pages": 842,
     "title": "Tales",
-    "year": 1950
+    "year": 1950,
+    "isbn": "284545280505"
     },
     {
+        "id":73,
     "author": "Marcel Proust",
     "publisher": "Publisher X",
     "pages": 2408,
     "title": "In Search of Lost Time",
-    "year": 1920
+    "year": 1920,
+    "isbn": "275787487394"
     },
     {
+        "id":74,
     "author": "François Rabelais",
     "publisher": "Publisher X",
     "pages": 623,
     "title": "Gargantua and Pantagruel",
-    "year": 1533
+    "year": 1533,
+    "isbn": "248883929104"
     },
     {
+        "id":75,
     "author": "Juan Rulfo",
     "publisher": "Publisher X",
     "pages": 124,
     "title": "Pedro Páramo",
-    "year": 1955
+    "year": 1955,
+    "isbn": "948553064606"
     },
     {
+        "id":76,
     "author": "Rumi",
     "publisher": "Publisher X",
     "pages": 438,
     "title": "The Masnavi",
-    "year": 1236
+    "year": 1236,
+    "isbn": "541917823488"
     },
     {
+        "id":77,
     "author": "Salman Rushdie",
     "publisher": "Publisher X",
     "pages": 536,
     "title": "Midnight's Children",
-    "year": 1981
+    "year": 1981,
+    "isbn": "896314720624"
     },
     {
+        "id":78,
     "author": "Saadi",
     "publisher": "Publisher X",
     "pages": 298,
     "title": "Bostan",
-    "year": 1257
+    "year": 1257,
+    "isbn": "137743724278"
     },
     {
+        "id":79,
     "author": "Tayeb Salih",
     "publisher": "Publisher X",
     "pages": 139,
     "title": "Season of Migration to the North",
-    "year": 1966
+    "year": 1966,
+    "isbn": "41640062817"
     },
     {
+        "id":80,
     "author": "José Saramago",
     "publisher": "Publisher X",
     "pages": 352,
     "title": "Blindness",
-    "year": 1995
+    "year": 1995,
+    "isbn": "724837127375"
     },
     {
+        "id":81,
     "author": "William Shakespeare",
     "publisher": "Publisher X",
     "pages": 432,
     "title": "Hamlet",
-    "year": 1603
+    "year": 1603,
+    "isbn": "722790274071"
     },
     {
+        "id":82,
     "author": "William Shakespeare",
     "publisher": "Publisher X",
     "pages": 384,
     "title": "King Lear",
-    "year": 1608
+    "year": 1608,
+    "isbn": "362388987095"
     },
     {
+        "id":83,
     "author": "William Shakespeare",
     "publisher": "Publisher X",
     "pages": 314,
     "title": "Othello",
-    "year": 1609
+    "year": 1609,
+    "isbn": "276994200424"
     },
     {
+        "id":84,
     "author": "Sophocles",
     "publisher": "Publisher X",
     "pages": 88,
     "title": "Oedipus the King",
-    "year": 430
+    "year": 430,
+    "isbn": "51332491451"
     },
     {
+        "id":85,
     "author": "Stendhal",
     "publisher": "Publisher X",
     "pages": 576,
     "title": "The Red and the Black",
-    "year": 1830
+    "year": 1830,
+    "isbn": "587704621722"
     },
     {
+        "id":86,
     "author": "Laurence Sterne",
     "publisher": "Publisher X",
     "pages": 640,
     "title": "The Life And Opinions of Tristram Shandy",
-    "year": 1760
+    "year": 1760,
+    "isbn": "929294622504"
     },
     {
+        "id":87,
     "author": "Italo Svevo",
     "publisher": "Publisher X",
     "pages": 412,
     "title": "Confessions of Zeno",
-    "year": 1923
+    "year": 1923,
+    "isbn": "765598147410"
     },
     {
+        "id":88,
     "author": "Jonathan Swift",
     "publisher": "Publisher X",
     "pages": 178,
     "title": "Gulliver's Travels",
-    "year": 1726
+    "year": 1726,
+    "isbn": "786059513456"
     },
     {
+        "id":89,
     "author": "Leo Tolstoy",
     "publisher": "Publisher X",
     "pages": 1296,
     "title": "War and Peace",
-    "year": 1867
+    "year": 1867,
+    "isbn": "726758351783"
     },
     {
+        "id":90,
     "author": "Leo Tolstoy",
     "publisher": "Publisher X",
     "pages": 864,
     "title": "Anna Karenina",
-    "year": 1877
+    "year": 1877,
+    "isbn": "135813191766"
     },
     {
+        "id":91,
     "author": "Leo Tolstoy",
     "publisher": "Publisher X",
     "pages": 92,
     "title": "The Death of Ivan Ilyich",
-    "year": 1886
+    "year": 1886,
+    "isbn": "63692074968"
     },
     {
+        "id":92,
     "author": "Mark Twain",
     "publisher": "Publisher X",
     "pages": 224,
     "title": "The Adventures of Huckleberry Finn",
-    "year": 1884
+    "year": 1884,
+    "isbn": "368634432089"
     },
     {
+        "id":93,
     "author": "Valmiki",
     "publisher": "Publisher X",
     "pages": 152,
     "title": "Ramayana",
-    "year": 450
+    "year": 450,
+    "isbn": "868310940685"
     },
     {
+        "id":94,
     "author": "Virgil",
     "publisher": "Publisher X Latin",
     "pages": 442,
     "title": "The Aeneid",
-    "year": 23
+    "year": 23,
+    "isbn": "304993755185"
     },
     {
+        "id":95,
     "author": "Vyasa",
     "publisher": "Publisher X",
     "pages": 276,
     "title": "Mahabharata",
-    "year": 700
+    "year": 700,
+    "isbn": "583581318846"
     },
     {
+        "id":96,
     "author": "Walt Whitman",
     "publisher": "Publisher X",
     "pages": 152,
     "title": "Leaves of Grass",
-    "year": 1855
+    "year": 1855,
+    "isbn": "619488657685"
     },
     {
+        "id":97,
     "author": "Virginia Woolf",
     "publisher": "Publisher X",
     "pages": 216,
     "title": "Mrs Dalloway",
-    "year": 1925
+    "year": 1925,
+    "isbn": "851224055281"
     },
     {
+        "id":98,
     "author": "Virginia Woolf",
     "publisher": "Publisher X",
     "pages": 209,
     "title": "To the Lighthouse",
-    "year": 1927
+    "year": 1927,
+    "isbn": "10470895563"
     },
     {
+        "id":99,
     "author": "Marguerite Yourcenar",
     "publisher": "Publisher X",
     "pages": 408,
     "title": "Memoirs of Hadrian",
-    "year": 1951
+    "year": 1951,
+    "isbn": "561681832653"
     }
     ]
 }

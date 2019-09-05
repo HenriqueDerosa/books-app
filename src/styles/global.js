@@ -8,6 +8,7 @@ export default createGlobalStyle`
         padding: 0;
         outline: 0;
         box-sizing: border-box;
+        user-select: none;
     }
 
     html, body, #root {
@@ -15,7 +16,7 @@ export default createGlobalStyle`
     }
 
     body {
-        background: rgb(241, 101, 80);
+        background: whitesmoke;
         color: #fff;
         font-family: 'Nunito', sans-serif;
         font-size: 16px;

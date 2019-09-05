@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 
 import { Container } from './styles';
@@ -7,6 +8,8 @@ import Header from '../../components/Header';
 function Main() {
     const table = useSelector(state => state.books.table);
 
+    // function goToDetails(id) {
+    // }
     return (
         <>
             <Header />
@@ -22,12 +25,14 @@ function Main() {
                     <tbody>
                         {table &&
                             table.map(item => (
-                                <tr>
+                                <tr key={item.title}>
                                     <td>{item.title}</td>
                                     <td>{item.author}</td>
                                     <td>{item.publisher}</td>
                                     <td>{item.year}</td>
-                                    <td>Detalhes</td>
+                                    <Link to={`/detail/${item.id}`}>
+                                        Detalhes
+                                    </Link>
                                 </tr>
                             ))}
                     </tbody>

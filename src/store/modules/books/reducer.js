@@ -10,6 +10,7 @@ export default function books(state = INITIAL_STATE, action) {
             case '@books/UPDATE_TABLE_SUCCESS':
                 console.tron.log(state);
                 draft.table = action.payload.table;
+                draft.totalAmount = action.payload.totalAmount;
                 break;
             default:
         }

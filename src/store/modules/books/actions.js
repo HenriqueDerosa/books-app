@@ -4,10 +4,10 @@ export function updateTableRequest(data) {
         payload: { data },
     };
 }
-export function updateTableSuccess(table) {
+export function updateTableSuccess(data) {
     return {
         type: '@books/UPDATE_TABLE_SUCCESS',
-        payload: { table },
+        payload: data,
     };
 }
 export function updateTableFailure() {
