@@ -3,13 +3,13 @@ import { Link } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 
 import { Container } from './styles';
+
 import Header from '../../components/Header';
+import Pagination from '../../components/Pagination';
 
 function Main() {
     const table = useSelector(state => state.books.table);
 
-    // function goToDetails(id) {
-    // }
     return (
         <>
             <Header />
@@ -25,8 +25,10 @@ function Main() {
                     <tbody>
                         {table &&
                             table.map(item => (
-                                <tr key={item.title}>
-                                    <td>{item.title}</td>
+                                <tr key={item.id}>
+                                    <td>
+                                        {item.title} <br /> ({item.isbn})
+                                    </td>
                                     <td>{item.author}</td>
                                     <td>{item.publisher}</td>
                                     <td>{item.year}</td>
@@ -37,6 +39,11 @@ function Main() {
                             ))}
                     </tbody>
                 </table>
+                <Pagination />
+                <span>
+                    Os dados de ISBN, livros, datas, são em parte fictícios, em
+                    parte tirados de bancos abertos da internet
+                </span>
             </Container>
         </>
     );

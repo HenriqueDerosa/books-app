@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
     padding: 8px 20px;
-
+    color: black;
     a {
         text-decoration: none;
         color: whitesmoke;
@@ -15,6 +15,7 @@ export const Container = styled.div`
     }
 
     table {
+        color: whitesmoke;
         width: 100%;
         margin: auto;
 
