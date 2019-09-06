@@ -9,12 +9,13 @@ export default function Header() {
     const [yearA, setYearA] = useState([]);
     const [yearB, setYearB] = useState([]);
 
-    const totalBooks = useSelector(state => state.books.totalAmount);
+    const { page, totalAmount } = useSelector(state => state.books);
     const dispatch = useDispatch();
 
     function updateTable() {
         dispatch(
             updateTableRequest({
+                page,
                 search,
                 year_gte: yearA,
                 year_lte: yearB,
@@ -37,7 +38,7 @@ export default function Header() {
     return (
         <Container>
             <div>
-                <h1>SUPERO</h1>
+                <h1>SUPERBUSCA</h1>
                 <input
                     type="text"
                     name="search"
@@ -78,7 +79,7 @@ export default function Header() {
                     />
                 </div>
                 <div>
-                    <span>{totalBooks} resultados encontrados</span>
+                    <span>{totalAmount} resultados encontrados</span>
                 </div>
             </div>
             <hr />

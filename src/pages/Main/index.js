@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { useSelector } from 'react-redux';
+import { useDispatch, useSelector } from 'react-redux';
+import { updateTableRequest } from '../../store/modules/books/actions';
 
 import { Container } from './styles';
 
@@ -8,8 +9,29 @@ import Header from '../../components/Header';
 import Pagination from '../../components/Pagination';
 
 function Main() {
-    const table = useSelector(state => state.books.table);
+    const {
+        page,
+        table,
+        search,
+        year_gte,
+        year_lte,
+        totalAmount,
+    } = useSelector(state => state.books);
+    const dispatch = useDispatch();
 
+    function updateTable(direction) {
+        dispatch(
+            updateTableRequest({
+                page: page + direction,
+                search,
+                year_gte,
+                year_lte,
+                totalAmount,
+            })
+        );
+    }
+    const perPage = 8;
+    const totalPages = Math.ceil(totalAmount / perPage);
     return (
         <>
             <Header />
@@ -39,12 +61,18 @@ function Main() {
                             ))}
                     </tbody>
                 </table>
-                <Pagination />
                 <span>
                     Os dados de ISBN, livros, datas, são em parte fictícios, em
                     parte tirados de bancos abertos da internet
                 </span>
             </Container>
+            <Pagination
+                page={page}
+                disablePrev={page === 1}
+                disableNext={page >= totalPages}
+                clickPrev={() => updateTable(-1)}
+                clickNext={() => updateTable(1)}
+            />
         </>
     );
 }

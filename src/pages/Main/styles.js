@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const Container = styled.div`
     padding: 8px 20px;
     color: black;
+    min-height: 630px;
     a {
         text-decoration: none;
         color: whitesmoke;

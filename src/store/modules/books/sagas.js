@@ -5,18 +5,21 @@ import { updateTableSuccess, updateTableFailure } from './actions';
 
 export function* updateTable({ payload }) {
     try {
-        const { search, ...rest } = payload.data;
-        const res = yield call(api.get, `books`, {
+        const { search, page, ...rest } = payload.data;
+        const res = yield call(api.get, 'books', {
             params: {
-                _page: 1,
+                _page: page || 1,
+                _limit: 8,
                 q: search,
                 ...rest,
             },
         });
 
         const response = {
+            page: page || 1,
             table: res.data,
             totalAmount: res.headers['x-total-count'],
+            ...rest,
         };
 
         console.tron.log('payload', payload.data);
