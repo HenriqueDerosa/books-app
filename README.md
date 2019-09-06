@@ -1,5 +1,13 @@
 # Books-app | Frontend | ReactJS
 
+## Acesso
+https://h-books-list.herokuapp.com/
+
+Para listar corretamente os dados é necessário inicializar o json-server localmente
+`npm run server` OR `yarn server`
+
+---
+
 ## Como executar
 
 #### Instalar dependências
