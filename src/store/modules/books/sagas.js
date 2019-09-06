@@ -19,6 +19,7 @@ export function* updateTable({ payload }) {
             page: page || 1,
             table: res.data,
             totalAmount: res.headers['x-total-count'],
+            search,
             ...rest,
         };
 

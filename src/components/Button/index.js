@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Button = styled.button`
-    cursor: pointer;
+    cursor: ${props => (props.unavailable === true ? 'default' : 'pointer')};
     color: white;
     padding: 12px;
     text-transform: uppercase;

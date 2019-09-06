@@ -7,16 +7,15 @@ import bookImage from '../../assets/book-placeholder.png';
 export default function Detail({ match, history }) {
     const { id } = match.params;
     const books = useSelector(state => state.books.table);
+    const book = books.find(b => b.id == id);
 
-    if (books === undefined || books === null) {
+    if (book === undefined || book === null) {
         return (
             <Container>
                 <span>Nenhum dado encontrado</span>
             </Container>
         );
     }
-
-    const book = books[id];
 
     return (
         <>

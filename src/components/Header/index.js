@@ -27,6 +27,13 @@ export default function Header() {
         updateTable();
     }
 
+    function handleKeyEnter(e) {
+        if (e.key === 'Enter') {
+            handleClick();
+            setSearch('');
+        }
+    }
+
     useEffect(() => {
         setSearch('');
         setYearA(0);
@@ -45,12 +52,7 @@ export default function Header() {
                     id="search"
                     onChange={e => setSearch(e.target.value)}
                     value={search}
-                    onKeyPress={e => {
-                        if (e.key === 'Enter') {
-                            handleClick();
-                            setSearch('');
-                        }
-                    }}
+                    onKeyPress={handleKeyEnter}
                     placeholder="Busque livros pelo título, autor ou ISBN"
                 />
                 <button type="button" onClick={handleClick}>
@@ -67,6 +69,7 @@ export default function Header() {
                         max="2099"
                         step="1"
                         value={yearA}
+                        onKeyPress={handleKeyEnter}
                         onChange={e => setYearA(e.target.value)}
                     />
                     <input
@@ -75,6 +78,7 @@ export default function Header() {
                         max="2099"
                         step="1"
                         value={yearB}
+                        onKeyPress={handleKeyEnter}
                         onChange={e => setYearB(e.target.value)}
                     />
                 </div>

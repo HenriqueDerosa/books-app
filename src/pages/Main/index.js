@@ -54,9 +54,11 @@ function Main() {
                                     <td>{item.author}</td>
                                     <td>{item.publisher}</td>
                                     <td>{item.year}</td>
-                                    <Link to={`/detail/${item.id}`}>
-                                        Detalhes
-                                    </Link>
+                                    <td>
+                                        <Link to={`/detail/${item.id}`}>
+                                            Detalhes
+                                        </Link>
+                                    </td>
                                 </tr>
                             ))}
                     </tbody>

@@ -2,6 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
     margin: 30px auto;
+    padding: 20px;
     text-align: center;
     color: #000;
 
@@ -17,7 +18,7 @@ export const Container = styled.div`
     }
 
     div {
-        width: 900px;
+        width: 500px;
         margin: auto;
         > div {
             display: flex;
