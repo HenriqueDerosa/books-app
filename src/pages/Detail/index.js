@@ -30,20 +30,50 @@ export default function Detail({ match, history }) {
                         <p>{book.title}</p>
                         <br />
                         <hr />
+
                         <h3>Autor</h3>
                         <p>{book.author}</p>
                         <br />
                         <hr />
+
+                        <h3>Idioma</h3>
+                        <p>{book.language}</p>
+                        <br />
+                        <hr />
+
                         <h3>Editora</h3>
                         <p>{book.publisher}</p>
                         <br />
                         <hr />
+
                         <h3>Ano</h3>
                         <p>{book.year}</p>
                         <br />
                         <hr />
+
                         <h3>Páginas</h3>
                         <p>{book.pages}</p>
+                        <br />
+                        <hr />
+
+                        <h3>Peso em gramas</h3>
+                        <p>{book.weight}</p>
+                        <br />
+                        <hr />
+
+                        <h3>Comprimento</h3>
+                        <p>{book.length}</p>
+                        <br />
+                        <hr />
+
+                        <h3>Largura</h3>
+                        <p>{book.weight}</p>
+                        <br />
+                        <hr />
+
+                        <h3>Altura</h3>
+                        <p>{book.height}</p>
+                        <br />
                     </div>
                 </div>
             </Container>

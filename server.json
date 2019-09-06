@@ -7,7 +7,12 @@
     "pages": 209,
     "title": "Things Fall Apart",
     "year": 1958,
-    "isbn": "4456986163281"
+    "isbn": "4456986163281",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 1,
@@ -16,7 +21,12 @@
     "pages": 784,
     "title": "Fairy tales",
     "year": 1836,
-    "isbn": "6685098353781"
+    "isbn": "6685098353781",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 2,
@@ -25,7 +35,12 @@
     "pages": 928,
     "title": "The Divine Comedy",
     "year": 1315,
-    "isbn": "1550850868231"
+    "isbn": "1550850868231",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 3,
@@ -34,7 +49,12 @@
     "pages": 160,
     "title": "The Epic Of Gilgamesh",
     "year": 1700,
-    "isbn": "1029534384151"
+    "isbn": "1029534384151",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 4,
@@ -43,7 +63,12 @@
     "pages": 176,
     "title": "The Book Of Job",
     "year": 600,
-    "isbn": "6279384670781"
+    "isbn": "6279384670781",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 5,
@@ -52,7 +77,12 @@
     "pages": 288,
     "title": "One Thousand and One Nights",
     "year": 1200,
-    "isbn": "2176364480991"
+    "isbn": "2176364480991",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 6,
@@ -61,7 +91,12 @@
     "pages": 384,
     "title": "Njál's Saga",
     "year": 1350,
-    "isbn": "7535449792641"
+    "isbn": "7535449792641",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 7,
@@ -70,7 +105,12 @@
     "pages": 226,
     "title": "Pride and Prejudice",
     "year": 1813,
-    "isbn": "2832661559811"
+    "isbn": "2832661559811",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 8,
@@ -79,7 +119,12 @@
     "pages": 443,
     "title": "Le Père Goriot",
     "year": 1835,
-    "isbn": "7988802930351"
+    "isbn": "7988802930351",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 9,
@@ -88,7 +133,12 @@
     "pages": 256,
     "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
     "year": 1952,
-    "isbn": "8195593473511"
+    "isbn": "8195593473511",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 10,
@@ -97,7 +147,12 @@
     "pages": 1024,
     "title": "The Decameron",
     "year": 1351,
-    "isbn": "8978364076471"
+    "isbn": "8978364076471",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 11,
@@ -106,7 +161,12 @@
     "pages": 224,
     "title": "Ficciones",
     "year": 1965,
-    "isbn": "2134010973391"
+    "isbn": "2134010973391",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 12,
@@ -115,7 +175,12 @@
     "pages": 342,
     "title": "Wuthering Heights",
     "year": 1847,
-    "isbn": "3121893946091"
+    "isbn": "3121893946091",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 13,
@@ -124,7 +189,12 @@
     "pages": 185,
     "title": "The Stranger",
     "year": 1942,
-    "isbn": "9181262063801"
+    "isbn": "9181262063801",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 14,
@@ -133,7 +203,12 @@
     "pages": 320,
     "title": "Poems",
     "year": 1952,
-    "isbn": "4077235297301"
+    "isbn": "4077235297301",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 15,
@@ -142,7 +217,12 @@
     "pages": 505,
     "title": "Journey to the End of the Night",
     "year": 1932,
-    "isbn": "2968757057101"
+    "isbn": "2968757057101",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 16,
@@ -151,7 +231,12 @@
     "pages": 1056,
     "title": "Don Quijote De La Mancha",
     "year": 1610,
-    "isbn": "5273641308311"
+    "isbn": "5273641308311",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 17,
@@ -160,7 +245,12 @@
     "pages": 544,
     "title": "The Canterbury Tales",
     "year": 1450,
-    "isbn": "3673140315811"
+    "isbn": "3673140315811",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 18,
@@ -169,7 +259,12 @@
     "pages": 194,
     "title": "Stories",
     "year": 1886,
-    "isbn": "4474273989911"
+    "isbn": "4474273989911",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 19,
@@ -178,7 +273,12 @@
     "pages": 320,
     "title": "Nostromo",
     "year": 1904,
-    "isbn": "2254146267661"
+    "isbn": "2254146267661",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 20,
@@ -187,7 +287,12 @@
     "pages": 194,
     "title": "Great Expectations",
     "year": 1861,
-    "isbn": "7164422834761"
+    "isbn": "7164422834761",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 21,
@@ -196,7 +301,12 @@
     "pages": 596,
     "title": "Jacques the Fatalist",
     "year": 1796,
-    "isbn": "4298834048681"
+    "isbn": "4298834048681",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 22,
@@ -205,7 +315,12 @@
     "pages": 600,
     "title": "Berlin Alexanderplatz",
     "year": 1929,
-    "isbn": "2943438866651"
+    "isbn": "2943438866651",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 23,
@@ -214,7 +329,12 @@
     "pages": 551,
     "title": "Crime and Punishment",
     "year": 1866,
-    "isbn": "1632987349301"
+    "isbn": "1632987349301",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 24,
@@ -223,7 +343,12 @@
     "pages": 656,
     "title": "The Idiot",
     "year": 1869,
-    "isbn": "4479622684891"
+    "isbn": "4479622684891",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 25,
@@ -232,7 +357,12 @@
     "pages": 768,
     "title": "The Possessed",
     "year": 1872,
-    "isbn": "189614577691"
+    "isbn": "189614577691",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 26,
@@ -241,7 +371,12 @@
     "pages": 824,
     "title": "The Brothers Karamazov",
     "year": 1880,
-    "isbn": "8760334043771"
+    "isbn": "8760334043771",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 27,
@@ -250,7 +385,12 @@
     "pages": 800,
     "title": "Middlemarch",
     "year": 1871,
-    "isbn": "7802583014131"
+    "isbn": "7802583014131",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 28,
@@ -259,7 +399,12 @@
     "pages": 581,
     "title": "Invisible Man",
     "year": 1952,
-    "isbn": "3865679828461"
+    "isbn": "3865679828461",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 29,
@@ -268,7 +413,12 @@
     "pages": 104,
     "title": "Medea",
     "year": 431,
-    "isbn": "8540033102041"
+    "isbn": "8540033102041",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 30,
@@ -277,7 +427,12 @@
     "pages": 313,
     "title": "Absalom, Absalom!",
     "year": 1936,
-    "isbn": "8531348588881"
+    "isbn": "8531348588881",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 31,
@@ -286,7 +441,12 @@
     "pages": 326,
     "title": "The Sound and the Fury",
     "year": 1929,
-    "isbn": "3814886135521"
+    "isbn": "3814886135521",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 32,
@@ -295,7 +455,12 @@
     "pages": 528,
     "title": "Madame Bovary",
     "year": 1857,
-    "isbn": "907787564221"
+    "isbn": "907787564221",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 33,
@@ -304,7 +469,12 @@
     "pages": 606,
     "title": "Sentimental Education",
     "year": 1869,
-    "isbn": "3266527780801"
+    "isbn": "3266527780801",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 34,
@@ -313,7 +483,12 @@
     "pages": 218,
     "title": "Gypsy Ballads",
     "year": 1928,
-    "isbn": "6627714757351"
+    "isbn": "6627714757351",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id": 35,
@@ -322,7 +497,12 @@
     "pages": 417,
     "title": "One Hundred Years of Solitude",
     "year": 1967,
-    "isbn": "1365357013421"
+    "isbn": "1365357013421",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":36,
@@ -331,7 +511,12 @@
     "pages": 368,
     "title": "Love in the Time of Cholera",
     "year": 1985,
-    "isbn": "8922703252181"
+    "isbn": "8922703252181",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":37,
@@ -340,7 +525,12 @@
     "pages": 158,
     "title": "Faust",
     "year": 1832,
-    "isbn": "3782616537071"
+    "isbn": "3782616537071",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":38,
@@ -349,7 +539,12 @@
     "pages": 432,
     "title": "Dead Souls",
     "year": 1842,
-    "isbn": "4558574587581"
+    "isbn": "4558574587581",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":39,
@@ -358,7 +553,12 @@
     "pages": 600,
     "title": "The Tin Drum",
     "year": 1959,
-    "isbn": "9531595008451"
+    "isbn": "9531595008451",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":40,
@@ -367,7 +567,12 @@
     "pages": 494,
     "title": "The Devil to Pay in the Backlands",
     "year": 1956,
-    "isbn": "8712312693251"
+    "isbn": "8712312693251",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":41,
@@ -376,7 +581,12 @@
     "pages": 176,
     "title": "Hunger",
     "year": 1890,
-    "isbn": "2285460524731"
+    "isbn": "2285460524731",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":42,
@@ -385,7 +595,12 @@
     "pages": 128,
     "title": "The Old Man and the Sea",
     "year": 1952,
-    "isbn": "6355201061821"
+    "isbn": "6355201061821",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":43,
@@ -394,7 +609,12 @@
     "pages": 608,
     "title": "Iliad",
     "year": 735,
-    "isbn": "4885647301571"
+    "isbn": "4885647301571",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":44,
@@ -403,7 +623,12 @@
     "pages": 374,
     "title": "Odyssey",
     "year": 800,
-    "isbn": "4134045804391"
+    "isbn": "4134045804391",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":45,
@@ -412,7 +637,12 @@
     "pages": 68,
     "title": "A Doll's House",
     "year": 1879,
-    "isbn": "1542316989511"
+    "isbn": "1542316989511",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":46,
@@ -421,7 +651,12 @@
     "pages": 228,
     "title": "Ulysses",
     "year": 1922,
-    "isbn": "8540440634831"
+    "isbn": "8540440634831",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":47,
@@ -430,7 +665,12 @@
     "pages": 488,
     "title": "Stories",
     "year": 1924,
-    "isbn": "650748978371"
+    "isbn": "650748978371",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":48,
@@ -439,7 +679,12 @@
     "pages": 160,
     "title": "The Trial",
     "year": 1925,
-    "isbn": "1142239349431"
+    "isbn": "1142239349431",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":49,
@@ -448,7 +693,12 @@
     "pages": 352,
     "title": "The Castle",
     "year": 1926,
-    "isbn": "8712069040641"
+    "isbn": "8712069040641",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":50,
@@ -457,7 +707,12 @@
     "pages": 147,
     "title": "The recognition of Shakuntala",
     "year": 150,
-    "isbn": "4459550715991"
+    "isbn": "4459550715991",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":51,
@@ -466,7 +721,12 @@
     "pages": 288,
     "title": "The Sound of the Mountain",
     "year": 1954,
-    "isbn": "235130591321"
+    "isbn": "235130591321",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":52,
@@ -475,7 +735,12 @@
     "pages": 368,
     "title": "Zorba the Greek",
     "year": 1946,
-    "isbn": "4344424756711"
+    "isbn": "4344424756711",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":53,
@@ -484,7 +749,12 @@
     "pages": 432,
     "title": "Sons and Lovers",
     "year": 1913,
-    "isbn": "8805820143321"
+    "isbn": "8805820143321",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":54,
@@ -493,7 +763,12 @@
     "pages": 470,
     "title": "Independent People",
     "year": 1934,
-    "isbn": "2021837749061"
+    "isbn": "2021837749061",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":55,
@@ -502,7 +777,12 @@
     "pages": 184,
     "title": "Poems",
     "year": 1818,
-    "isbn": "4241523705431"
+    "isbn": "4241523705431",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":56,
@@ -511,7 +791,12 @@
     "pages": 688,
     "title": "The Golden Notebook",
     "year": 1962,
-    "isbn": "9879101691771"
+    "isbn": "9879101691771",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":57,
@@ -520,7 +805,12 @@
     "pages": 160,
     "title": "Pippi Longstocking",
     "year": 1945,
-    "isbn": "876794573861"
+    "isbn": "876794573861",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":58,
@@ -529,7 +819,12 @@
     "pages": 389,
     "title": "Diary of a Madman",
     "year": 1918,
-    "isbn": "4598274836321"
+    "isbn": "4598274836321",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":59,
@@ -538,7 +833,12 @@
     "pages": 355,
     "title": "Children of Gebelawi",
     "year": 1959,
-    "isbn": "5591464533941"
+    "isbn": "5591464533941",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":60,
@@ -547,7 +847,12 @@
     "pages": 736,
     "title": "Buddenbrooks",
     "year": 1901,
-    "isbn": "376573314431"
+    "isbn": "376573314431",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":61,
@@ -556,7 +861,12 @@
     "pages": 720,
     "title": "The Magic Mountain",
     "year": 1924,
-    "isbn": "2480699084701"
+    "isbn": "2480699084701",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":62,
@@ -565,7 +875,12 @@
     "pages": 378,
     "title": "Moby Dick",
     "year": 1851,
-    "isbn": "5177620421171"
+    "isbn": "5177620421171",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":63,
@@ -574,7 +889,12 @@
     "pages": 404,
     "title": "Essays",
     "year": 1595,
-    "isbn": "6380610561471"
+    "isbn": "6380610561471",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":64,
@@ -583,7 +903,12 @@
     "pages": 600,
     "title": "History",
     "year": 1974,
-    "isbn": "1050474953381"
+    "isbn": "1050474953381",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":65,
@@ -592,7 +917,12 @@
     "pages": 321,
     "title": "Beloved",
     "year": 1987,
-    "isbn": "1068801158111"
+    "isbn": "1068801158111",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":66,
@@ -601,7 +931,12 @@
     "pages": 1360,
     "title": "The Tale of Genji",
     "year": 1006,
-    "isbn": "4059985612991"
+    "isbn": "4059985612991",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":67,
@@ -610,7 +945,12 @@
     "pages": 365,
     "title": "The Man Without Qualities",
     "year": 1931,
-    "isbn": "833224840471"
+    "isbn": "833224840471",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":68,
@@ -619,7 +959,12 @@
     "pages": 317,
     "title": "Lolita",
     "year": 1955,
-    "isbn": "9914117855961"
+    "isbn": "9914117855961",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":69,
@@ -628,7 +973,12 @@
     "pages": 272,
     "title": "Nineteen Eighty-Four",
     "year": 1949,
-    "isbn": "2030745348901"
+    "isbn": "2030745348901",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":70,
@@ -637,7 +987,12 @@
     "pages": 576,
     "title": "Metamorphoses",
     "year": 100,
-    "isbn": "2105969467671"
+    "isbn": "2105969467671",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":71,
@@ -646,7 +1001,12 @@
     "pages": 272,
     "title": "The Book of Disquiet",
     "year": 1928,
-    "isbn": "1603181434331"
+    "isbn": "1603181434331",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":72,
@@ -655,7 +1015,12 @@
     "pages": 842,
     "title": "Tales",
     "year": 1950,
-    "isbn": "2845452805051"
+    "isbn": "2845452805051",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":73,
@@ -664,7 +1029,12 @@
     "pages": 2408,
     "title": "In Search of Lost Time",
     "year": 1920,
-    "isbn": "2757874873941"
+    "isbn": "2757874873941",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":74,
@@ -673,7 +1043,12 @@
     "pages": 623,
     "title": "Gargantua and Pantagruel",
     "year": 1533,
-    "isbn": "2488839291041"
+    "isbn": "2488839291041",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":75,
@@ -682,7 +1057,12 @@
     "pages": 124,
     "title": "Pedro Páramo",
     "year": 1955,
-    "isbn": "9485530646061"
+    "isbn": "9485530646061",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":76,
@@ -691,7 +1071,12 @@
     "pages": 438,
     "title": "The Masnavi",
     "year": 1236,
-    "isbn": "5419178234881"
+    "isbn": "5419178234881",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":77,
@@ -700,7 +1085,12 @@
     "pages": 536,
     "title": "Midnight's Children",
     "year": 1981,
-    "isbn": "8963147206241"
+    "isbn": "8963147206241",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":78,
@@ -709,7 +1099,12 @@
     "pages": 298,
     "title": "Bostan",
     "year": 1257,
-    "isbn": "1377437242781"
+    "isbn": "1377437242781",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":79,
@@ -718,7 +1113,12 @@
     "pages": 139,
     "title": "Season of Migration to the North",
     "year": 1966,
-    "isbn": "416400628171"
+    "isbn": "416400628171",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":80,
@@ -727,7 +1127,12 @@
     "pages": 352,
     "title": "Blindness",
     "year": 1995,
-    "isbn": "7248371273751"
+    "isbn": "7248371273751",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":81,
@@ -736,7 +1141,12 @@
     "pages": 432,
     "title": "Hamlet",
     "year": 1603,
-    "isbn": "7227902740711"
+    "isbn": "7227902740711",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":82,
@@ -745,7 +1155,12 @@
     "pages": 384,
     "title": "King Lear",
     "year": 1608,
-    "isbn": "3623889870951"
+    "isbn": "3623889870951",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":83,
@@ -754,7 +1169,12 @@
     "pages": 314,
     "title": "Othello",
     "year": 1609,
-    "isbn": "2769942004241"
+    "isbn": "2769942004241",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":84,
@@ -763,7 +1183,12 @@
     "pages": 88,
     "title": "Oedipus the King",
     "year": 430,
-    "isbn": "513324914511"
+    "isbn": "513324914511",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":85,
@@ -772,7 +1197,12 @@
     "pages": 576,
     "title": "The Red and the Black",
     "year": 1830,
-    "isbn": "5877046217221"
+    "isbn": "5877046217221",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":86,
@@ -781,7 +1211,12 @@
     "pages": 640,
     "title": "The Life And Opinions of Tristram Shandy",
     "year": 1760,
-    "isbn": "9292946225041"
+    "isbn": "9292946225041",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":87,
@@ -790,7 +1225,12 @@
     "pages": 412,
     "title": "Confessions of Zeno",
     "year": 1923,
-    "isbn": "7655981474101"
+    "isbn": "7655981474101",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":88,
@@ -799,7 +1239,12 @@
     "pages": 178,
     "title": "Gulliver's Travels",
     "year": 1726,
-    "isbn": "7860595134561"
+    "isbn": "7860595134561",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":89,
@@ -808,7 +1253,12 @@
     "pages": 1296,
     "title": "War and Peace",
     "year": 1867,
-    "isbn": "7267583517831"
+    "isbn": "7267583517831",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":90,
@@ -817,7 +1267,12 @@
     "pages": 864,
     "title": "Anna Karenina",
     "year": 1877,
-    "isbn": "1358131917661"
+    "isbn": "1358131917661",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":91,
@@ -826,7 +1281,12 @@
     "pages": 92,
     "title": "The Death of Ivan Ilyich",
     "year": 1886,
-    "isbn": "636920749681"
+    "isbn": "636920749681",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":92,
@@ -835,7 +1295,12 @@
     "pages": 224,
     "title": "The Adventures of Huckleberry Finn",
     "year": 1884,
-    "isbn": "3686344320891"
+    "isbn": "3686344320891",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":93,
@@ -844,7 +1309,12 @@
     "pages": 152,
     "title": "Ramayana",
     "year": 450,
-    "isbn": "8683109406851"
+    "isbn": "8683109406851",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":94,
@@ -853,7 +1323,12 @@
     "pages": 442,
     "title": "The Aeneid",
     "year": 23,
-    "isbn": "3049937551851"
+    "isbn": "3049937551851",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":95,
@@ -862,7 +1337,12 @@
     "pages": 276,
     "title": "Mahabharata",
     "year": 700,
-    "isbn": "5835813188461"
+    "isbn": "5835813188461",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":96,
@@ -871,7 +1351,12 @@
     "pages": 152,
     "title": "Leaves of Grass",
     "year": 1855,
-    "isbn": "6194886576851"
+    "isbn": "6194886576851",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":97,
@@ -880,7 +1365,12 @@
     "pages": 216,
     "title": "Mrs Dalloway",
     "year": 1925,
-    "isbn": "8512240552811"
+    "isbn": "8512240552811",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":98,
@@ -889,7 +1379,12 @@
     "pages": 209,
     "title": "To the Lighthouse",
     "year": 1927,
-    "isbn": "104708955631"
+    "isbn": "104708955631",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     },
     {
         "id":99,
@@ -898,7 +1393,12 @@
     "pages": 408,
     "title": "Memoirs of Hadrian",
     "year": 1951,
-    "isbn": "5616818326531"
+    "isbn": "5616818326531",
+    "language": "English",
+    "weight": "100g",
+    "width": "20cm",
+    "height": "5cm",
+    "length": "30cm"
     }
     ]
 }
